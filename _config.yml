@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Ilim College                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Access School LMS
+app_description                           : Interact With Multiple College Services Through A Single App 
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -50,6 +50,10 @@ features                                  :
   - title                                 : Easy to Tweak
     description                           : Tweak your inbox feed to show only what you want.
     fontawesome_icon_name                 : adjust
+
+  - title                                 : Assessments
+    description                           : Scan your work, Type it in the app, or upload it and view your teachers feedback.
+    fontawesome_icon_name                 : book
   
   - title                                 : Attendance
     description                           : Insights into your attendance summary with detailed daily and semesterly breakdowns. Attendance is even integrated into the timetable!
@@ -64,7 +68,7 @@ features                                  :
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Widgets
-    description                           : Explore your timetable and inbox without on your home screen.
+    description                           : Explore your timetable and inbox from your home screen.
     fontawesome_icon_name                 : info-circle
     
 #   - title                                 : Push Notifications

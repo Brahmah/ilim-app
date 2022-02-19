@@ -3,7 +3,24 @@ layout: page
 title: What's New
 include_in_header: true
 ---
-**Please note:** This app is in no way affliated with schoolbox or academium and is merely developed and maintained by an Ilim student incorporating feedback from fellow students to provide the best possible experience to accessing schools learning systems.
+**Please note:** This app is developed and maintained by an Ilim student incorporating feedback from fellow students to provide the best possible experience to accessing schools learning systems.
+
+# **Version 0.1.6**
+- Improved login screen error handling.
+- Added support for schoolbox resources (file, folder, unit, course) and supporting homepage component. This builds a little upon the existing “My Files” support.
+- Display real profile images instead of generic ones in some contexts.
+- Added ‘mark all as read' button in notifications.
+- Add view resources button on homepage.
+- Remedied an issue with timetable widget free periods.
+- Resolved whiteboard scan bug that would cause reliability issues when scanning in landscape.
+- Resolved issue with schoolbox timetable data source.
+- Redesigned attachments module.
+- Updated task submission page to be a little more user friendly and resolve a few minor bugs.
+- Resolve bug in schoolbox news module.
+- Improved lesson detail on iPad.
+- Dropped support for iOS 14.
+- Updated some screenshots
+- Bug fixes and improvements...
 
 # **Version 0.1.3**
 - Display room name in lesson item detail as suggested by MT

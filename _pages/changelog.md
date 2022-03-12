@@ -5,6 +5,29 @@ include_in_header: true
 ---
 **Please note:** This app is developed and maintained by an Ilim student incorporating feedback from fellow students to provide the best possible experience to accessing schools learning systems.
 
+# **Version 0.2.1**
+- Introduced share sheet, one can now add files to their “My Files” from the share sheet within other apps.
+- Resolved bug where the home view may not appear for some users.
+- Made minor enhancements to the homepage course outline component.
+
+# **Version 0.2.0**
+- Added an option in settings to prefer class codes over subject names.
+- Improved support for schoolbox assessments that allow in-person submissions.
+- Bug fixes and improvements.
+
+# **Version 0.1.8**
+- Bug Fixes & Improvements.
+
+# **Version 0.1.7**
+- Current period banner for teachers and non-academium students.
+- Enabled Learning Moments.
+- Updated calendar to leverage timetable data.
+- Improved support for schoolbox groups.
+- Separated student home and more view.
+- Implemented schoolbox blog component.
+- General improvements to help improve the staff experience.
+- Bug Fixes & Improvements.
+
 # **Version 0.1.6**
 - Improved login screen error handling.
 - Added support for schoolbox resources (file, folder, unit, course) and supporting homepage component. This builds a little upon the existing “My Files” support.

@@ -5,6 +5,21 @@ include_in_header: true
 ---
 **Please note:** This app is developed and maintained by an Ilim student incorporating feedback from fellow students to provide the best possible experience to accessing schools learning systems.
 
+# **Version 0.3.0**
+Just updating a little code here and there. It ain't much, but it's honest work.
+
+- Improved overall staff experience.
+- Implemented push notifications one day and a week before an excursion or incursion.
+- Added whiteboard scan functionality for staff accounts.
+- Revamped Share Sheet. One can now send attachments and images from outside the app to social streams. This is in addition to the existing share sheet ‘my files’ support.
+- Redesigned subject detail and homepage views to dynamically present students with the most relevant info at the best time from both college LMS systems
+- Altered app colour scheme to be more inline with that of the college.
+- Added individual class/group social stream view.
+
+All these changes were requested by users just like yourself, feel free to suggest anything or report bugs in the settings page. Thank you.
+
+— Kiewa Campus Student
+
 # **Version 0.2.1**
 - Introduced share sheet, one can now add files to their “My Files” from the share sheet within other apps.
 - Resolved bug where the home view may not appear for some users.

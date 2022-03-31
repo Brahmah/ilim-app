@@ -5,6 +5,22 @@ include_in_header: true
 ---
 **Please note:** This app is developed and maintained by an Ilim student incorporating feedback from fellow students to provide the best possible experience to accessing schools learning systems.
 
+# **Version 0.3.1**
+Just updating a little code here and there. It ain't much, but it's honest work.
+
+
+- Better support schoolbox assessments with child activities/tasks.
+- Update LTI homepage component to support one more provider.
+- Minor improvements to user view, now showing student current day timetables for staff.
+- Open resource browser for notifications like “Person created file in BM12A”.
+- Minor schoolbox news tweaks.
+- Show profile images in the notifications view where appropriate.
+
+All these changes were requested by users just like yourself, feel free to suggest anything or report bugs in the settings page. Thank you.
+
+
+— Kiewa Campus Student
+
 # **Version 0.3.0**
 Just updating a little code here and there. It ain't much, but it's honest work.
 

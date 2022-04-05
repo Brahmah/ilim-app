@@ -138,6 +138,9 @@ collections:
   pages:
     output: true
     permalink: /:path/
-
+    
+plugins:
+  - jekyll-seo-tag
+  
 # Markdown rendering
 markdown: kramdown
